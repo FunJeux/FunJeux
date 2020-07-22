@@ -1,2 +1,2 @@
 # FunJeux
-FunJeux readme
+A fun web games directory
